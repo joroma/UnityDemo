@@ -13,7 +13,7 @@ namespace UnityDemo
             return "Tesla Labs";
         }
 
-        public int TunedFrequence()
+        public int TunedFrequency()
         {
             return (int)99.8;
         }
